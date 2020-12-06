@@ -29,6 +29,6 @@ date: 2020-12-05T11:24:23-05:00
 
 - When heating up, place a small amount of water in the bottom of the vessel the rice is being heated up in.
 
-## Reference
+## Original Recipe
 
 [Alton Brown - Pantry Raid: Rice Edition](https://youtu.be/9Qe-7tuMOIY)

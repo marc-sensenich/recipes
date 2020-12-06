@@ -1,7 +1,6 @@
-category:
-	@sh $(CURDIR)/scripts/make-category.sh ${CATEGORY}
+.DEFAULT_GOAL: recipe
 
 recipe:
 	@sh $(CURDIR)/scripts/make-recipe.sh ${CATEGORY} ${RECIPE}
 
-PHONY: category
+PHONY: recipe

@@ -12,19 +12,21 @@ then
 fi
 
 if [ -z "$_category" ]; then
-    printf "Enter the category: "
-    read _category
+    IFS= read -r -p "Enter the category: " _category
 fi
 
+_category=`printf "${_category}" | xargs | sed 's/[^[:alnum:]]/-/g' | tr '[:upper:]' '[:lower:]'`
+
 if [ ! -d ${DIR}/../content/docs/${_category} ]; then
-    sh ${DIR}/make-category.sh ${_category}
+    cp -R ${DIR}/../archetypes/category ${DIR}/../content/docs/${_category}
 fi
 
 if [ -z "$_recipe" ]; then
-    printf "Enter the recipe name (e.g. chocolate-chip-cookies): "
-    read _recipe
+    IFS= read -r -p "Enter the recipe: " _recipe
 fi
 
-_recipe=`printf ${_recipe} | sed 's/[^[:alnum:]]/-/g' | tr '[:upper:]' '[:lower:]'`
+_recipe=`printf "${_recipe}" | xargs | sed 's/[^[:alnum:]]/-/g' | tr '[:upper:]' '[:lower:]'`
 
-hugo new ${DIR}/../content/docs/${_category}/${_recipe}.md
+if [ ! -f "${DIR}/../content/docs/${_category}/${_recipe}.md" ]; then
+    hugo new "${DIR}/../content/docs/${_category}/${_recipe}.md"
+fi
