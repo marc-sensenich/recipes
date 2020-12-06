@@ -37,4 +37,4 @@ date: 2020-12-04T19:36:42-05:00
 - Roll dough into walnut sized balls
 - Bake for 10 minutes
 - Set aside to cool
-- Dip in [chocolate glaze]({{< relref "/docs/dessert/chocolate-glaze" >}})
+- Dip in [chocolate glaze]({{< relref "./chocolate-glaze" >}})
