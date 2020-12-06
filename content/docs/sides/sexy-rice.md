@@ -12,7 +12,7 @@ date: 2020-12-05T11:24:23-05:00
 - 2 Tbsp. of butter
 - 2 heavy pinches of kosher salt
 
-## Directions
+## Instructions
 
 - Bring water to a boil in an electric kettle
 - Saute the rice in a pot over high heat with butter and salt

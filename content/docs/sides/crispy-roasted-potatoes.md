@@ -14,7 +14,7 @@ date: 2020-12-05T15:39:09-05:00
 - 3 medium cloves of garlic, minced
 - Additional kosher salt and freshly ground black pepper to taste
 
-## Directions
+## Instructions
 
 - Adjust oven rack to center position and preheat to 450&deg;F (400&deg;F in convection oven)
 - Bring 2 quarts of water to a boil over high heat

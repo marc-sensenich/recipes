@@ -25,7 +25,7 @@ date: 2020-12-04T19:36:42-05:00
 - 2 cup Crisco
 - 3 cup milk
 
-## Directions
+## Instructions
 
 
 - Melt Crisco in saucepan with milk and set aside to cool

@@ -9,6 +9,6 @@ date: {{ .Date }}
 
 - ...
 
-## Directions
+## Instructions
 
 - ...
