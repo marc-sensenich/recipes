@@ -8,22 +8,22 @@ date: 2020-12-04T19:36:42-05:00
 ## Ingredients
 
 {{< hint info >}}
-**Makes ~6 dozen cookies**
+**Makes ~3 dozen cookies**
 {{< /hint >}}
 
-- 8 cups flour
-- 1 cup cocoa
-- 3 cup sugar
-- 2 tsp. baking soda
-- 6 tsp. baking powder
-- 1 tsp. clove
-- 1 lb. chopped walnuts
-- 4 tsp. cinnamon
-- 2 tsp. allspice
-- 3/4 tsp. salt
-- 2 tsp. vanilla
-- 2 cup Crisco
-- 3 cup milk
+- 4 cups flour
+- 0.5 cup cocoa
+- 1.5 cup sugar
+- 1 tsp. baking soda
+- 3 tsp. baking powder
+- 0.5 tsp. clove
+- 0.5 lb. chopped walnuts
+- 2 tsp. cinnamon
+- 1 tsp. allspice
+- 3/8 tsp. salt
+- 1 tsp. vanilla
+- 1 cup Crisco
+- 1.5 cup milk
 
 ## Instructions
 
