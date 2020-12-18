@@ -17,7 +17,7 @@ date: 2020-12-04T19:36:42-05:00
 - 1 tsp. baking soda
 - 3 tsp. baking powder
 - 0.5 tsp. clove
-- 0.5 lb. chopped walnuts
+- 0.25 cup. chopped walnuts
 - 2 tsp. cinnamon
 - 1 tsp. allspice
 - 3/8 tsp. salt
