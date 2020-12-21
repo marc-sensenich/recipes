@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes</title>
+    <link>/docs/dinner/</link>
+    <description>Recent content on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Dec 2020 20:06:33 -0500</lastBuildDate><atom:link href="/docs/dinner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chili</title>
+      <link>/docs/dinner/chili/</link>
+      <pubDate>Sun, 20 Dec 2020 20:06:33 -0500</pubDate>
+      
+      <guid>/docs/dinner/chili/</guid>
+      <description>Chili #  Ingredients #   2 1/2 Tbsp. chili powder 2 Tbsp. ground cumin 2 Tbsp. packed light brown sugar 1 Tbsp. garlic powder 1 1/2 tsp.s salt 1/2 tsp. ground black pepper 1/4 tsp. ground cayenne pepper 1 Tbsp. olive oil 1 medium yellow onion - diced 1 medium green bell pepper - diced 1 lb 90% lean ground beef 2 Tbsp. tomato paste 1 1/2 cups beef broth 1 (15 oz.</description>
+    </item>
+    
+  </channel>
+</rss>
