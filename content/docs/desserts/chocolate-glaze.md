@@ -14,6 +14,6 @@ date: 2020-12-04T20:00:06-05:00
 
 ## Instructions
 
-- In a double boiler, over hot not boiling water, combine combine chocolate chips; margarine; & corn syrup. Stir until chips are melted & mixture is smooth.
+- In a double boiler over hot not boiling water combine chocolate chips, margarine, and corn syrup. Stir until chips are melted and mixture is smooth.
 - Add vanilla and stir.
-- Use the glaze to dip cookies or spread over a cake.
+- Use the glaze to dip cookies into or to spread over a cake.
