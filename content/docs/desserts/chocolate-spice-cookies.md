@@ -30,7 +30,7 @@ date: 2020-12-04T19:36:42-05:00
 
 - Melt Crisco in saucepan with milk and set aside to cool
 - Mix dry ingredients
-- Gradually stir dry ingredients iinto cooled Crisco and milk
+- Gradually stir dry ingredients into cooled Crisco and milk
 - Stir in the chopped walnuts
 - Set dough aside to settle
 - Preheat oven to 400&deg;F
