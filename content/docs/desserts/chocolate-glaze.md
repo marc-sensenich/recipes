@@ -8,7 +8,7 @@ date: 2020-12-04T20:00:06-05:00
 ## Ingredients
 
 - 3/4 cup semi-sweet chocolate chips
-- 3 Tbsp. margarine
+- 3 Tbsp. butter
 - 1 Tbsp. light corn syrup
 - 1/3 tsp. vanilla
 
