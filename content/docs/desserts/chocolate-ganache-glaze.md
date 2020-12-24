@@ -1,9 +1,9 @@
 ---
-title: "Chocolate Glaze"
+title: "Chocolate Ganache Glaze"
 date: 2020-12-04T20:00:06-05:00
 ---
 
-# Chocolate Glaze
+# Chocolate Ganache Glaze
 
 ## Ingredients
 

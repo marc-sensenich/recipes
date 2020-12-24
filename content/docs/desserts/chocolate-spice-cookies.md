@@ -35,4 +35,4 @@ date: 2020-12-04T19:36:42-05:00
 - Scoop out each cookie using a size 40 cookie scoop, roll into a ball, and place onto a cookie sheet. 
 - Bake for 10 minutes.
 - Pull the cookies out of the oven and place onto wire cooling rack to cool.
-- Once fully cooled, dip top of cookie into [chocolate glaze]({{< relref "./chocolate-glaze" >}}).
+- Once fully cooled, dip top of cookie into [chocolate ganache glaze]({{< relref "./chocolate-ganache-glaze" >}}).
