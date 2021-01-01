@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes</title>
+    <link>/docs/appetizers/</link>
+    <description>Recent content on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 13:27:36 -0500</lastBuildDate><atom:link href="/docs/appetizers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fried Pickles</title>
+      <link>/docs/appetizers/fried-pickles/</link>
+      <pubDate>Thu, 31 Dec 2020 13:27:36 -0500</pubDate>
+      
+      <guid>/docs/appetizers/fried-pickles/</guid>
+      <description>Fried Pickles #  Ingredients #   1 16-ounce jar of kosher dill pickles, drained and dried 2/3 cup flour 1 Tbsp. of italian or Old Bay seasoning 1 tsp. crushed red pepper flakes 1 egg, beaten Vegtable or canola oil for frying  Instructions #   Mix the flour, seasoning, red pepper flakes, pinch of salt, and a pinch of ground pepper in a large bowl Place the beaten egg into a small bowl, Dunk the pickles into the egg and then dredge in the flour mixture.</description>
+    </item>
+    
+    <item>
+      <title>Soft Pretzels</title>
+      <link>/docs/appetizers/soft-pretzels/</link>
+      <pubDate>Thu, 31 Dec 2020 13:17:32 -0500</pubDate>
+      
+      <guid>/docs/appetizers/soft-pretzels/</guid>
+      <description>Soft Pretzels #  Ingredients #   1 1/2 cups water, warm (~110°F) 1 Tbsp. salt 1 Tbsp. sugar 1 packet active dry yeast 4 cups flour 2 1/2 Tbsp. butter, melted 10 cups water 1/3 cup baking soda 1 egg yolk beaten with 1 Tbsp. of water coarse salt  Instructions #   In a bowl mix water, salt, and sugar until combined. Add yeast, and let rest 5 minutes until yeast starts to foam.</description>
+    </item>
+    
+  </channel>
+</rss>
