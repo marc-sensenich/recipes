@@ -12,7 +12,7 @@ date: 2020-12-20T20:06:33-05:00
 - 2 Tbsp. ground cumin
 - 2 Tbsp. packed light brown sugar
 - 1 Tbsp. garlic powder
-- 1 1/2 tsp.s salt
+- 1 1/2 tsp. salt
 - 1/2 tsp. ground black pepper
 - 1/4 tsp. ground cayenne pepper
 - 1 Tbsp. olive oil
