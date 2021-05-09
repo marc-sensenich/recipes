@@ -7,8 +7,12 @@ date: {{ .Date }}
 
 ## Ingredients
 
-- ...
+- 
+
+## Equipment Needed
+
+- 
 
 ## Instructions
 
-- ...
+- 
