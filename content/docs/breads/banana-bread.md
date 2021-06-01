@@ -6,7 +6,7 @@ date: 2021-03-19T19:51:46-04:00
 # Banana Bread
 
 {{< hint info >}}
-**Makes 1 loaf**
+**Makes 1 loaf or ~20 muffins**
 {{< /hint >}}
 
 ## Ingredients
@@ -27,11 +27,13 @@ date: 2021-03-19T19:51:46-04:00
 - Grease the loaf pan
 - Mix together the butter and bananas
 - Mix in eggs, sugar, and vanilla
+- Mix in baking soda and salt
 - Mix in flour
 - Mix in chocolate chips
 - Pour the mixture into the loaf pan
 - Bake for 45 minutes
+    - For muffins, bake for 25 minutes
 
 ## Notes
 
-If edges are real brown and the middle is still jiggly turn the oven down to 325&deg;F and bake in 5 minute increments until the center is no longer jiggly
+- If edges are real brown and the middle is still jiggly turn the oven down to 325&deg;F and bake in 5 minute increments until the center is no longer jiggly
