@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes</title>
+    <link>/docs/breakfast/</link>
+    <description>Recent content on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jul 2021 11:45:46 -0400</lastBuildDate><atom:link href="/docs/breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beignets</title>
+      <link>/docs/breakfast/beignets/</link>
+      <pubDate>Sun, 18 Jul 2021 11:45:46 -0400</pubDate>
+      
+      <guid>/docs/breakfast/beignets/</guid>
+      <description>Beignets #  Ingredients #   1/2 tsp. dry yeast 1/4 cup warm water; 105°F 1/4 cup granulated sugar 2 Tbsp. vegetable shortening 1/2 tsp. salt 1/2 cup heavy cream 1 egg 4 cups all-purpose flour 1/2 cup boiling water Vegetable oil for frying Confectioner&amp;rsquo;s sugar for dusting  Instructions #   Sprinkle yeast over warm water in a small bowl, stirring to dissolve. Let stand for 5 minutes.</description>
+    </item>
+    
+  </channel>
+</rss>
