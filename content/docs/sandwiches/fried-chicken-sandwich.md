@@ -17,6 +17,11 @@ date: 2021-02-27T15:30:00-05:00
 - 1 tsp. salt
 - 1/2 tsp. ground black pepper
 
+### For a Spicy Chicken Sandwich
+
+- 1/2 tsp. paprika
+- 1 Tbsp. cayenne powder
+
 ## Instructions
 
 - Butterfly the chicken breast. Then using the flat side of a meat tenderizer, pound the chicken until ~1/2 inch thick all around.
