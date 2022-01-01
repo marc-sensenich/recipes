@@ -7,15 +7,15 @@ date: 2021-07-18T11:45:46-04:00
 
 ## Ingredients
 
-- 1/2 tsp. dry yeast
-- 1/4 cup warm water; 105&deg;F
-- 1/4 cup granulated sugar
-- 2 Tbsp. vegetable shortening
-- 1/2 tsp. salt
-- 1/2 cup heavy cream
-- 1 egg
-- 4 cups all-purpose flour
-- 1/2 cup boiling water
+- 1/4 tsp. dry yeast
+- 2 Tbsp. warm water; 105&deg;F
+- 2 Tbsp. granulated sugar
+- 1 Tbsp. vegetable shortening
+- 1/4 tsp. salt
+- 1/4 cup heavy cream
+- 1/2 egg
+- 2 cups (278 grams) all-purpose flour
+- 1/4 cup boiling water
 - Vegetable oil for frying
 - Confectioner's sugar for dusting
 
