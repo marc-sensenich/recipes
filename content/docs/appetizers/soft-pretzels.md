@@ -11,17 +11,22 @@ date: 2020-12-31T13:17:32-05:00
 - 1 Tbsp. salt
 - 1 Tbsp. sugar
 - 1 packet active dry yeast
-- 4 cups flour
+- 4 cups (556 grams) flour
 - 2 1/2 Tbsp. butter, melted
 - 10 cups water
 - 1/3 cup baking soda
 - 1 egg yolk beaten with 1 Tbsp. of water
 - coarse salt
 
+## Equipment Needed
+
+- KitchenAid mixer
+- Large stock pot
+
 ## Instructions
 
-- In a bowl mix water, salt, and sugar until combined. Add yeast, and let rest 5 minutes until yeast starts to foam.
-- Add flour and melted butter to the bowl. Then mix in a Kitchenaid using the dough hook on speed 2 until a dough ball forms and then an additional 5 minutes on speed 4 - 6 after the dough ball forms.
+- In the KitchenAid bowl mix the water, salt, and sugar until combined. Add yeast, and let rest 5 minutes until yeast starts to foam.
+- Add flour and melted butter to the bowl. Then mix in the KitchenAid using the dough hook on speed 2 until a dough ball forms and then an additional 5 minutes on speed 4 - 6 after the dough ball forms.
 - Remove the dough ball from the bowl, clean the bowl, and lightly coat the interior of the bowl with oil.
 - Place the dough ball back into the bowl, cover, and leave in a warm place for 1 hour.
 - Preheat oven to 450&deg;F.
