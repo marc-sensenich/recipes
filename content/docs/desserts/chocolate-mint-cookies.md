@@ -15,7 +15,7 @@ date: 2022-08-28T18:05:18-04:00
 - 1 1/4 cups all-purpose flour
 - 5/8 teaspoons baking soda
 - 1/4 teaspoon salt
-- 18 chocolate mint wafer candies; unwrapped broken and in half
+- 18 Andes Crème De Menthe; unwrapped broken and in half
 
 ## Equipment Needed
 
