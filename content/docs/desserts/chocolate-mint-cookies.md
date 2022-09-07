@@ -7,7 +7,7 @@ date: 2022-08-28T18:05:18-04:00
 
 ## Ingredients
 
-- 6/8 cup butter
+- 3/8 cup butter
 - 3/4 cups packed brown sugar
 - 1 tablespoons water
 - 1 cups semisweet chocolate chips
