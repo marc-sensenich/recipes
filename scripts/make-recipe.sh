@@ -18,7 +18,7 @@ fi
 _category=`printf "${_category}" | xargs | sed 's/[^[:alnum:]]/-/g' | tr '[:upper:]' '[:lower:]'`
 
 if [ ! -d ${DIR}/../content/docs/${_category} ]; then
-    cp -R ${DIR}/../archetypes/category ${DIR}/../content/docs/${_category}
+    hugo new --kind category ${DIR}/../content/docs/${_category}
 fi
 
 if [ -z "$_recipe" ]; then
