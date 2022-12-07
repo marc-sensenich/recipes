@@ -25,8 +25,8 @@ date: 2022-12-06T14:13:18-04:00
 ## Instructions
 
 - Preheat oven to 350&deg;F
-- In saute pan, use butter to carmelize onion.
+- In saute pan, use butter to caramelize onion.
 - Stir in mushroom soup, sour cream, cheddar cheese, salt, and pepper.
-- Place the frozen potatoes in a buttered 9x13 casserole dish. Pour the mixture in the saute pan over the potatoes and mix together.
+- Place the frozen potatoes in a buttered 9x13 baking dish. Pour the mixture in the saute pan over the potatoes and mix together.
 - Top with the corn flake crumbs or more cheddar cheese. 
 - Cover with foil. Bake at 350&deg;F for 1 hour, removing foil for the last 15 minutes of cook time.
