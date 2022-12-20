@@ -6,6 +6,9 @@ date: 2022-11-26T14:05:18-04:00
 # Chocolate Cherry Cookies
 
 ## Ingredients
+{{< hint info >}}
+**Makes ~3 dozen cookies**
+{{< /hint >}}
 
 ### Cookies
 
@@ -49,5 +52,4 @@ date: 2022-11-26T14:05:18-04:00
 - Drain the cherries and save the juice. Place a cherry in the center of each cookie.
 - Bake for 10 minutes at 350&deg;F. Place on cooling rack when removed from oven.
 - In a saucepan, combine chocolate chips and sweetened condensed milk and heat on low, stirring until melted. Stir in 4 teaspoons of cherry juice. 
-- After the cookies have baked, spoon 1 teaspoon of the mixture over each cherry, spreading it to cover the cherry.
-- Makes about 3 dozen cookies. 
+- After the cookies have baked, spoon 1 teaspoon of the mixture over each cherry, spreading it to cover the cherry. 
