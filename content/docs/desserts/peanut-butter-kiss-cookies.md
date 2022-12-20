@@ -6,6 +6,9 @@ date: 2021-05-09T09:01:46-04:00
 # Peanut Butter Kiss Cookies
 
 ## Ingredients
+{{< hint info >}}
+**Makes 4 dozen cookies**
+{{< /hint >}}
 
 - 1 egg
 - 1/2 cup white sugar
