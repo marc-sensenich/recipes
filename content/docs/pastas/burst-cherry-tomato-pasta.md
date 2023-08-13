@@ -30,4 +30,4 @@ date: 2022-08-28T17:50:29-04:00
 
 ## Original Recipe
 
-[Simply Recipes](https://www.simplyrecipes.com/recipes/baked_ziti/)
+[Bon Appétit](https://www.bonappetit.com/recipe/burst-cherry-tomato-pasta)
