@@ -8,7 +8,7 @@ date: 2020-12-04T19:36:42-05:00
 ## Ingredients
 
 {{< hint info >}}
-**Makes ~3 dozen cookies**
+**Makes ~4 dozen cookies with a size 40 scoop**
 {{< /hint >}}
 
 - 1 cup Crisco
@@ -33,6 +33,6 @@ date: 2020-12-04T19:36:42-05:00
 - Set dough aside to settle for 30 - 45 minutes.
 - Preheat oven to 400&deg;F.
 - Scoop out each cookie using a size 40 cookie scoop, roll into a ball, and place onto a cookie sheet. 
-- Bake for 10 minutes.
+- Bake for 13-14 minutes.
 - Pull the cookies out of the oven and place onto wire cooling rack to cool.
 - Once fully cooled, dip top of cookie into [chocolate ganache glaze]({{< relref "../desserts/chocolate-ganache-glaze" >}}).
