@@ -30,13 +30,6 @@ date: 2021-05-09T09:01:46-04:00
 - Large mixing bowl (if not using stand mixer)
 - Small bowl of sugar for rolling
 - Large dinner plate for Hershey's kisses
-- 1 cup dry measuring cup 
-- 1/2 cup dry measuring cup
-- 1/4 cup dry measuring cup
-- Tablespoon
-- Teaspoon
-- 1/2 teaspoon
-- Cooling racks
 
 ## Instructions
 
