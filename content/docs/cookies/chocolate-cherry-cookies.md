@@ -20,7 +20,7 @@ date: 2022-11-26T14:05:18-04:00
 - 1/2 cup cocoa powder
 - 1/4 teaspoon salt
 - 1/4 teaspoon baking soda
-- 1 10 oz jar maraschino cherries
+- 1 16 oz jar maraschino cherries
 
 ### Topping
 
@@ -33,23 +33,20 @@ date: 2022-11-26T14:05:18-04:00
 - Large mixing bowl
 - Medium mixing bowl
 - Mixer
-- Liquid measuring cup
-- Dry measuring cups
-- Measuring spoons
 - Sifter
 - Small bowls to drain & de-stem cherries
-- Cookie sheets
 - Sauce pan
 - Kitchen scale (for chocolate chips)
-- Cooling racks
 
 ## Instructions
 
 - Preheat oven to 350&deg;F
 - Beat together butter and sugar until fluffy. Add the egg and vanilla and beat until well blended.
 - Sift dry ingredients together and gradually add to the cream mixture. Beat until well blended.
-- Shape into 1 inch balls and place on ungreased cookie sheets. Press down center of dough with thumb. 
-- Drain the cherries and save the juice. Place a cherry in the center of each cookie.
-- Bake for 10 minutes at 350&deg;F. Place on cooling rack when removed from oven.
+- Drain the cherries and save the juice.
+- Shape the dough into 1 inch balls and place on ungreased cookie sheets. Using a size 70 cookie scoop to size the balls is helpful here.
+- Press down center of dough with thumb and place a cherry in the thumb indent
+- Bake for 10 minutes at 350&deg;F.
+- Leave on baking sheet for 1-2 minutes before placing on cooling racks. 
 - In a saucepan, combine chocolate chips and sweetened condensed milk and heat on low, stirring until melted. Stir in 4 teaspoons of cherry juice. 
 - After the cookies have baked, spoon 1 teaspoon of the mixture over each cherry, spreading it to cover the cherry. 
