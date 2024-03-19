@@ -14,7 +14,8 @@ date: 2023-05-28T07:58:29-04:00
 - 2 cups chicken stock or broth
 - 1/2 lb broccoli (about 3 cups), chopped into bite size pieces
 - 1 cup carrot, julienned
-- 1/4 tsp. nutmeg
+- 1/8 tsp. nutmeg
+- 1/4 tsp. paprika
 - 8 ounces grated sharp cheddar cheese
 - Salt and pepper to taste
 
@@ -33,7 +34,8 @@ date: 2023-05-28T07:58:29-04:00
 - Add the broccoli and carrots. Cook over low heat for 20-25 minutes or until the broccoli and carrots are tender.
 - Add salt and pepper to taste.
 - (Optional) You can leave the soup chunky or blend about 1 cup of the soup and stir it in for a smoother soup.
-- Return to low heat and add the cheese. Stir in the nutmeg.
+- Return to low heat and add the cheese. Stir in the nutmeg and paprika.
+- Add salt and pepper to taste.
 
 ## Original recipe
 [The Girl Who Ate Everything](https://www.the-girl-who-ate-everything.com/panera-broccoli-cheese-soup/#recipe)
