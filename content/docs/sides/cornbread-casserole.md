@@ -18,7 +18,7 @@ date: 2024-04-07T08:04:30-04:00
 ## Equipment Needed
 
 - 11x7-in. baking dish
-- 1/4 tsp. measuring sppon
+- 1/4 tsp. measuring spoon
 
 ## Instructions
 
