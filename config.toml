@@ -1,6 +1,0 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "Recipes"
-[params]
-    BookTheme = 'auto'
-    BookComments = false

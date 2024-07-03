@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Recipes"
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
+
+[params]
+    BookTheme = 'auto'
+    BookComments = false
+    
