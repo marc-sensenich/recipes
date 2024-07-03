@@ -11,6 +11,6 @@ push:
 	@git push ${GIT_REMOTE} ${GIT_BRANCH} ${GIT_PUSH_FLAGS}
 
 local-server:
-	hugo server --theme book
+	hugo server
 
 PHONY: recipe push local-server
