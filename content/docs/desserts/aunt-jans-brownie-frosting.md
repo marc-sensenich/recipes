@@ -4,7 +4,8 @@ date: 2024-09-02T15:53:20-04:00
 ---
 
 # Aunt Jan's Brownie Frosting
-### This recipe makes a small batch. If using for a cake, it is recommended to double it. 
+### This recipe makes a small batch. If using for a cake, it is recommended to triple it. 
+
 
 ## Ingredients
 
