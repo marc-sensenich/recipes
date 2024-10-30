@@ -16,9 +16,10 @@ date: 2024-02-21T08:17:44-05:00
 - 2 tsp Worcestershire sauce
 - 1 Tbsp minced fresh thyme
 - 1 Tbsp minced fresh rosemary
-- 2.5 lbs small yukon gold potatoes, left whole
+- 1 1/2 lbs small yukon gold potatoes, left whole
 - 5 medium carrots (about 1 lb), peeled and cut into 1-inch pieces
-- 2 1/2 Tbsp cornstarch mixed with 3 Tbsp beef broth, optional, for thickening - gravy
+- 1 Tbsp cornstarch for thickening gravy
+- 1/8 tsp. Gravy Master
 
 ## Equipment Needed
 
@@ -35,7 +36,7 @@ date: 2024-02-21T08:17:44-05:00
 - Layer potatoes and carrots over onion layer in slow cooker, pour beef broth evenly over top then season with salt and pepper.
 - Cover slow cooker and cook on low heat until roast and vegetables are tender, about 8 - 9 hours.
 - Remove roast and vegetables, shred roast (discard fat) and cut potatoes if desired.
-- If you'd like to thicken the broth and make a gravy, pour broth from slow cooker through a fine mesh strainer into a small saucepan**. Heat over medium-high heat. Whisk cornstarch - with 3 Tbsp beef broth then pour into saucepan. Bring to a simmer, stirring constantly, let simmer 30 - 60 seconds. 
+- If you'd like to thicken the broth and make a gravy, pour broth from slow cooker through a fine mesh strainer into a small saucepan**. Heat over medium-high heat. Whisk cornstarch into saucepan. Bring to a simmer, stirring constantly, let simmer 30 - 60 seconds. Once thickened, whisk in Gravy Master.
 
 ## Original Recipe
 
