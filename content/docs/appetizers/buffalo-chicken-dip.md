@@ -7,9 +7,10 @@ date: 2024-10-25T09:01:33-05:00
 
 ## Ingredients
 
-- 1 10 ounce can of chunk chicken, drained
-- 6 fluid ounces of hot sauce
-- 1 8 ounce package cream cheese
+- 10 ounce can of chunk chicken, drained
+- 4 fluid ounces of hot sauce
+- 8 ounce package cream cheese
+- 1/4 cup ranch dressing
 - 3/4 quarter cups shredded cheddar cheese divided into 2 piles
 
 ## Instructions
