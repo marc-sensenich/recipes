@@ -14,9 +14,9 @@ date: 2024-02-21T08:23:53-05:00
 - 1 1/2 teaspoons almond extract
 - 2 cups all-purpose flour (240g)
 - 1/4 teaspoon salt
-- red food coloring
-- green food coloring
-- 1/2 cup raspberry jam (160g)
+- Red food coloring
+- Green food coloring
+- 1/2 cup raspberry jam (160g) (The Crofter's brand is preferred)
 - 1 1/2 cups semi-sweet chocolate chips (312g)
 
 ## Equipment Needed
