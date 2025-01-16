@@ -14,7 +14,7 @@ date: 2024-10-25T09:01:33-05:00
 - 1/2 teaspoon salt
 - 2 1/2 cups chicken broth
 - 12 oz evaporated milk (for later)
-- 18 oz dried gnocchi (1 package, for later)
+- 18 oz dried mini gnocchi (1 package, for later)
 - 2 oz baby spinach (for later)
 
 ## Instructions
