@@ -7,7 +7,7 @@ date: 2022-12-06T14:13:18-04:00
 
 ## Ingredients
 
-- 2 lb bag of frozen shredded hashbrown potatoes 
+- 2 lb bag of frozen shredded hashbrown potatoes, thawed in refrigerator overnight or 1 hour on the counter
 - 1/2 cup (1 stick) butter
 - 1 teaspoon salt
 - 1/4 teaspoon pepper
