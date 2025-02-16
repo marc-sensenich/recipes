@@ -7,7 +7,7 @@ date: 2021-02-14T12:30:21-05:00
 
 ## Ingredients
 
-- 1/2 pound of cooked linguine or fettucine pasta
+- 1/2 pound of cooked linguine pasta
 - 1/4 cup of pasta water
 - 5 - 6 cloves of garlic, thinly sliced
 - 1/8 tsp. red pepper flake
