@@ -18,7 +18,7 @@ date: 2023-09-01T18:15:11-04:00
 
 ### Fudge layer
 
-- TBD amount of hot fudge topping
+- 1/2 cup of hot fudge topping
 
 ### Cookie crumble
 
@@ -28,14 +28,13 @@ date: 2023-09-01T18:15:11-04:00
 ## Instructions
 
 - Pre-chill the springform pan in the freezer for at least 2 hours.
-- Line the springform pan with plastic wrap to prevent sticking to the sides
 - Press and spread around 1 inch of the first flavor of ice cream into the pan.
 - Cover the pan and place the pan in the freezer for around 1 hour.
 - After the first layer of ice cream is frozen, remove from the freezer and spread a thin (~1/4") layer of ice cream around the edges of the pan.
 - Cover the pan and place the pan in the freezer for around 1 hour.
 - After the side layer of ice cream is frozen, in a separate bowl pour the Magic Shell topping over the cookie crumbs and mix well to combine. Spread and press the cookie crumble layer into the pan.
 - Cover the pan and place the pan in the freezer for around 30 minutes.
-- Remove the pan from the freezer and spread a thin layer of room temperature hot fudge topping over the cookie crumble layer.
+- Remove the pan from the freezer and spread a thin (~1/4") layer of room temperature hot fudge topping over the cookie crumble layer.
 - Cover the pan and place the pan in the freezer for around 30 minutes.
 - Remove the pan from the freezer and press and spread the second flavor of ice cream until it reaches the top of the pan.
-- Cover the pan and place the pan in the freezer at least 4 hours prior to decorating or serving. Decorate with buttercream frosting, gel icing, and sprinkles.
+- Cover the pan and place the pan in the freezer at least 4 hours prior to decorating or serving. Decorate with buttercream frosting, gel icing, and sprinkles as desired.
