@@ -3,7 +3,7 @@ title: "Kaya Black Bean Dip"
 date: 2023-03-28T07:48:59-04:00
 ---
 
-# Dill Pickle Dip
+# Kaya Black Bean Dip
 
 {{< hint info >}}
 This recipe has been adjusted from the original to reduce the spice level and remove lactose.
