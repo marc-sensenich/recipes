@@ -11,7 +11,8 @@ This recipe has been adjusted from the original to reduce the spice level and re
 
 ## Ingredients
 
-- 2 chipotle peppers with 2 tsp. of adobo sauce
+- 2 small or 1 medium chipotle peppers
+- 2 tsp. of adobo sauce
 - 3 cup cooked black beans (2 cans)
 - 1 cup mayonnaise
 - 1/2 tsp. chili powder
@@ -20,7 +21,7 @@ This recipe has been adjusted from the original to reduce the spice level and re
 
 ## Instructions
 
-- Puree chipotle peppers with half the black beans.
+- Puree chipotle peppers and adobo sauce with half the black beans.
 - Combine puree with remaining ingredients.
 - Place in heatproof container(s).
 - Top with grated cheese and heat in oven or microwave.
