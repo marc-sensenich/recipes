@@ -39,7 +39,6 @@ date: 2023-01-01T18:52:22-05:00
 - 1/4 tsp. measuring spoon
 - Cling wrap
 
-
 ## Instructions
 
 ### Dough
@@ -53,18 +52,20 @@ date: 2023-01-01T18:52:22-05:00
 
 - Beat egg white until frothy.
 - Mix in the ground walnuts and granulated sugar until well-combined.
-- Set aside until ready to roll the cookies.
+- Set aside until ready to make the cookies.
 
 ### Rolling and baking
 
 - Preheat oven to 350&deg;F
-- Roll out each dough disk to a 6-7 inch circle and spread 1/3rd of the filling onto each circle, leaving a 1/4 inch border of dough around the edge.
-- Cut each disk into 12 wedges like cutting a pie.
-- Roll each wedge from edge to point in center. Place point side down on baking sheet.
-- Bake at 350&deg;F for 12-14 minutes.
-- Cool on a wire rack and then dust with confectioners sugar.
-
-## Notes
-
-- If for some reason the dough isn't rolling, you can bake the slices at 350&deg;F for 9-11 minutes.
-
+- To make rolled horns
+    - Roll out each dough disk to a 6-7 inch circle and spread 1/3rd of the filling onto each circle, leaving a 1/4 inch border of dough around the edge.
+    - Cut each disk into 12 wedges like cutting a pie.
+    - Roll each wedge from edge to point in center. Place point side down on baking sheet.
+    - Bake at 350&deg;F for 12-14 minutes.
+    - Cool on a wire rack and then dust with confectioners sugar.
+- To make disks
+    - Roll out each dough disk to a 6-7 inch circle roughly 1/8" thick
+    - Using a 4 cm round non-fluted cutter, cut out disks from dough and place onto baking sheet. Repeat until out of dough.
+    - Top each round with around 1/4 tsp. of the filling
+    - Bake at 350&deg;F for 13-15 minutes.
+    - Cool on a wire rack
