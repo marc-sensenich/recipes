@@ -33,3 +33,6 @@ date: 2024-02-21T08:39:20-05:00
 - Add the peas during the last 15 minutes of cooking.
 - Turn off the heat.
 - Add 3 drops of Gravy Master for an even darker color.
+
+## Notes
+- Try it next time without the tomato paste
